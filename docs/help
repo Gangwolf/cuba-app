@@ -1,0 +1,11 @@
+usage: rake <command>
+
+== commands
+
+  console   Start an IRB session (alias: "c")
+  install   Create .env file and install dependencies
+  secret    Generate a cryptographically secure secret key
+  server    Start up the server on localhost, port 9393 (alias: "s")
+  test      Run all tests in tests folder (alias: "t")
+  update    Install dependencies, includes development dependencies
+
