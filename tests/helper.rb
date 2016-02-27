@@ -7,6 +7,4 @@ require "cuba/test"
 require "posten/test"
 
 prepare do
-  Ohm.flush
-  Posten.reset
 end
